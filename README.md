@@ -51,6 +51,8 @@ bash <(curl -Lso- https://git.io/oneclick)
 ```bash
 curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
+
+```bash
 curl -O https://raw.githubusercontent.com/luohuawei68/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
 #### via wget to install script
@@ -58,6 +60,7 @@ curl -O https://raw.githubusercontent.com/luohuawei68/one_click_script/master/tr
 ```bash
 wget --no-check-certificate https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
+```bash
 wget --no-check-certificate https://raw.githubusercontent.com/luohuawei168/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
 
